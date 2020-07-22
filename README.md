@@ -18,7 +18,7 @@ Hey there! I go by Vince (he/him).
 <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
   <img align="left"
     src="https://github-readme-stats.vercel.app/api?username=aturingmachine&show_icons=true&theme=synthwave"
-    alt="aturingmachine" />
+    alt="aturingmachine" width="450" />
 </a>
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
